@@ -247,11 +247,11 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  color: var(--bs-black);
   text-decoration: underline;
 }
 a:hover {
-  color: var(000);
+  color: var(--bs-backdrop-bg);
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
